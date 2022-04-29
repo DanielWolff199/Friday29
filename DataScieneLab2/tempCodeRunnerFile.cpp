@@ -1,0 +1,1 @@
+cout << "N = " << n << " -> Average Time: " << (total / times) << " microse
